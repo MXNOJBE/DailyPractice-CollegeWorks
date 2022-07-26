@@ -19,6 +19,11 @@ listed_numbers.sort()
 print(listed_numbers)
 listed_numbers.sort(reverse=True)
 print(listed_numbers)
-popping = listed_items.pop(1)
+popping = listed_items.pop(0)
 print(popping)
-
+# change list items
+listed_items[1] = "Mercedes"
+print(listed_items)
+# replacing values in a list wiht one or more values
+listed_items[0:4] = ["Mercedes", "Mclaren"]
+print(listed_items)
