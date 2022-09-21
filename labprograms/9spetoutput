@@ -1,0 +1,18 @@
+Python 3.10.5 (tags/v3.10.5:f377153, Jun  6 2022, 16:14:13) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+============== RESTART: C:\Users\MXNOJBE\Desktop\labb\sept9lab.py ==============
+     AGE  HEIGHT  WEIGHT  CHOL   SMOKE BLOOD   MORT
+0     20     176      77   195  nonsmo     b  alive
+1     53     167      56   250  sigare     o   dead
+2     44     170      80   304  sigare     a   dead
+3     37     173      89   178  nonsmo     o  alive
+4     26     170      71   206  sigare     o  alive
+..   ...     ...     ...   ...     ...   ...    ...
+195   35     174      57   222    pipe     a  alive
+196   38     172      91   227  nonsmo     b  alive
+197   26     170      60   167  sigare     a  alive
+198   39     165      74   259  sigare     o  alive
+199   49     178      81   275    pipe     b  alive
+
+[200 rows x 7 columns]
